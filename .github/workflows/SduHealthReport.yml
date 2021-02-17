@@ -5,7 +5,7 @@ on:
   #   branches:
   #     - master
   schedule:
-    - cron: '30 5 * * *' # GMT+8 10:30
+    - cron: '05 5 * * *' # GMT+8 10:30
 
 jobs:
   start:
